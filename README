@@ -1,1 +1,24 @@
 Esercizi del corso di Laboratorio Python
+divisione:/, // dà il numero intero. 
+per l'elevamento a potenza **
+non bisogna mettere gli spazi!!
+1/0: errore di runtime: errori che avvengono durante l'esecuzione dell'istruzione.
+L'errore di semantica è il più difficile
+Quando si va a capo finisce l'istruzione(statement) che si sta dando. di solito ogni riga contiene un solo statement.
+!!!gli statement non producono risultati
+import statement = è l'unico statement che produce un risultato, scrive tutte le regole di Python
+COMMENTI: servono per descrivere quello che sta succedendo. bisogna scrivere # e dal calcelletto fino alla fine dello statement è il commento e il programma non lo prende in considerazione
+per python tutte le cose che iniziano e finiscono con ' sono una stringa
+number=10, poi se scrivo number=20 cambia. questa è la tipizzazione dinamica
+le ESPRESSIONI producono un risultato
+quanti tipi di comando ci sono in pyton? 2: espressioni e statement
+Gli operatori sono dei token speciali che indicano delle operazioni. Ad esempio per le operazioni matematematiche:
+
+addizione: +
+
+moltiplicazione: *
+
+divisione: /
+
+sottrazione: -
+
